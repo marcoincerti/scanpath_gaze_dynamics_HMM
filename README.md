@@ -20,11 +20,11 @@ The project allows for:
 2. **Classification**  
    - Leverages discriminant analysis with HMM parameters for classification tasks.
    - Supports observer and stimuli characteristic inference.
-   ![Subject 1](plots/subjects/Subject_1_visualization)
+   ![Subject 1](plots/subjects/Subject_1_visualization.png)
 
 3. **Clustering**  
    - Implements Variational HEM for clustering HMMs into groups with representative cluster centers.
-   ![Cluster =](plots/Group_0_visualization)
+   ![Cluster =](plots/Group_0_visualization.png)
 
 4. **Visualization**  
    - Generates intuitive plots for HMM states, transitions, and emission densities.
